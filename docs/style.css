@@ -13,14 +13,13 @@ ul {
 .logo_text {
     padding: 4%;
     font-family: "Noto Sans JP", sans-serif;
-    border-radius: 0%;
 }
 .logo_text h3 {
     color: rgb(17, 131, 74);
 }
 .main_text {
     font-family: "Noto Sans JP", sans-serif;
-    font-size: 8rem;
+    font-size: 5rem;
     text-align: center;
 
     background: rgb(131, 58, 180);
