@@ -1,0 +1,40 @@
+li {
+    list-style: none;
+    margin: 0 20px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    display: flex;
+}
+.logo_text {
+    padding: 4%;
+    font-family: "Noto Sans JP", sans-serif;
+    border-radius: 0%;
+}
+.logo_text h3 {
+    color: rgb(17, 131, 74);
+}
+.main_text {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 8rem;
+    text-align: center;
+
+    background: rgb(131, 58, 180);
+    background: -webkit-linear-gradient(0deg, #4158d0, #c850c0 30%, #ffcc70);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.term {
+    font-family: "Noto Sans JP", sans-serif;
+    margin: 4%;
+    padding: 3%;
+    border: 3px solid #b2e463;
+}
+.term_area p {
+    margin: 4%;
+}
